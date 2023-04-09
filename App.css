@@ -1,0 +1,11 @@
+
+*{
+  scroll-behavior: smooth;
+}
+
+.app{
+  min-height: 100vh;
+  padding-top: 20px;
+  padding-bottom: 70px;
+  background-color: #b9dddc;
+}

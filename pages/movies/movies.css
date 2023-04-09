@@ -1,0 +1,31 @@
+.trend{
+    margin-top: 100px;
+}
+.titlee{
+    font-size: x-large;
+    font-weight: bold;
+    margin-left: 550px;
+}
+.trending{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 50px;
+    margin-top: -20px;
+}
+
+@media (max-width: 650px) {
+    .trending{
+        padding: 0px;
+        margin-top: 0px;
+    }
+    .trend{
+        margin-top: 70px;
+    }
+    .titlee{
+        font-size: larger;
+        font-weight: 400;
+        margin-left: 0px;
+    }
+  }
