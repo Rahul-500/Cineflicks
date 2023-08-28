@@ -14,3 +14,8 @@ The same goes with T.V Series page ::
 You can also search specific Movie/T.V Series of your choice ::
 
 ![Screenshot (244)](https://github.com/Rahul-500/Cineflicks/assets/94467838/e6ca56a6-323a-4b59-a8e2-bc8e7e0de473)
+
+You can also click the Movie/T.V series of your choice to get to know about the cast and desciption of the Movie/T.V Series.
+You can also watch the trailer of that Movie/T.V Series in the app itself.
+
+![Screenshot (245)](https://github.com/Rahul-500/Cineflicks/assets/94467838/60fe6f04-2768-4e14-9759-4ab0d8bf228b)
